@@ -1,3 +1,10 @@
+# Qt Creator
+egor-text.config
+egor-text.creator
+egor-text.files
+egor-text.includes
+egor-text.creator.user
+
 # Object files
 *.o
 *.ko
@@ -27,3 +34,4 @@
 *.i*86
 *.x86_64
 *.hex
+/e-text
